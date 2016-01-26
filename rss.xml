@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[908BrantleyDr]]></title>
         <description><![CDATA[908BrantleyDr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/908brantleydr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 04:10:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 02:37:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/908brantleydr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3349a36-81f0-4d07-afd8-1316c61d26df.jpg">]]></description>
-            <link>undefined7879e245-425a-4a6b-897a-d5456ea88b98/index.html</link>
+            <link>https://thegrid.ai/908brantleydr/7879e245-425a-4a6b-897a-d5456ea88b98/index.html</link>
             <guid isPermaLink="false">7879e245-425a-4a6b-897a-d5456ea88b98</guid>
-            <pubDate>Tue, 19 Jan 2016 04:09:53 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 02:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
